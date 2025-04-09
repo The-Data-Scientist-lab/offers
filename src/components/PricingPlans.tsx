@@ -43,7 +43,7 @@ const PricingPlans = () => {
               </div>
               
               <h3 className="text-2xl font-bold mb-2 text-center">₹450</h3>
-              <p className="text-gray-600 mb-6 text-center">30 Minutes Video Call</p>
+              <p className="text-gray-600 mb-6 text-center">30 Minutes Nude Video Call Stripping Black Saree</p>
               
               <div className="flex-grow space-y-4 mb-8">
                 <div className="flex items-start gap-3">
@@ -52,7 +52,7 @@ const PricingPlans = () => {
                 </div>
                 <div className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-green-500 mt-0.5 flex-shrink-0" />
-                  <p className="text-gray-700">Model will wear a Black Saree</p>
+                  <p className="text-gray-700">Nude video call in Black Saree</p>
                 </div>
                 <div className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-green-500 mt-0.5 flex-shrink-0" />
@@ -83,20 +83,20 @@ const PricingPlans = () => {
               </div>
               
               <h3 className="text-2xl font-bold mb-2 text-center">₹540</h3>
-              <p className="text-gray-600 mb-6 text-center">1 Hour Video Call</p>
+              <p className="text-gray-600 mb-6 text-center">1 Hour Nude recorded video and 30 photos</p>
               
               <div className="flex-grow space-y-4 mb-8">
                 <div className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-green-500 mt-0.5 flex-shrink-0" />
-                  <p className="text-gray-700">Full 1 hour private video call</p>
+                  <p className="text-gray-700">Full 1 hour recorded video</p>
                 </div>
                 <div className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-green-500 mt-0.5 flex-shrink-0" />
-                  <p className="text-gray-700">Model will wear your choice of dress</p>
+                  <p className="text-gray-700">In your choice of dress</p>
                 </div>
                 <div className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-green-500 mt-0.5 flex-shrink-0" />
-                  <p className="text-gray-700">HD video quality with priority support</p>
+                  <p className="text-gray-700">HD video quality </p>
                 </div>
                 <div className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-green-500 mt-0.5 flex-shrink-0" />
@@ -104,7 +104,7 @@ const PricingPlans = () => {
                 </div>
                 <div className="flex items-start gap-3">
                   <Sparkles className="w-5 h-5 text-yellow-500 mt-0.5 flex-shrink-0" />
-                  <p className="text-gray-700">Exclusive conversation topics</p>
+                  <p className="text-gray-700">Access to VIP Group</p>
                 </div>
               </div>
               
