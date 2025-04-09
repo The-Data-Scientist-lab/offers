@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import AnimatedGradientBg from '@/components/AnimatedGradientBg';
@@ -90,11 +89,11 @@ const Payment = () => {
         
         <footer className="w-full py-10 text-center text-gray-500">
           <div className="container mx-auto px-4">
-            <p className="mb-4">© 2025 Special Video Call Services. All rights reserved.</p>
+            <p className="mb-4">© 2025 Shanaya Video Call Service. All rights reserved.</p>
             <div className="flex justify-center gap-6">
               <a href="#" className="hover:text-gray-700 transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-gray-700 transition-colors">Terms of Service</a>
-              <a href="#" className="hover:text-gray-700 transition-colors">Contact Us</a>
+              <a href="https://t.me/Shanaya_Service" target="_blank" rel="noopener noreferrer" className="hover:text-gray-700 transition-colors">Contact Us</a>
             </div>
           </div>
         </footer>
